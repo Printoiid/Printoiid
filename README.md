@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px">A logical problem solver at his core.</p>
+<h1 align="center" style="font-size: 30px">A logical problem solver at his core.</h1>
 
 <p align="center"><img src="mdr.gif" alt="MDR" style="width:300px;"></p>
 
