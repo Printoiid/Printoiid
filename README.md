@@ -16,6 +16,7 @@
 
 ## Current Projects
 
-- [Multiboard Automation](https://github.com/Printoiid/Multiboard-Automation): This is a small PowerShell module to grab every [Thangs](https://thangs.com) listing for Multiboard parts. This was mainly created out of my disliking for how the parts were organized and hosted.
+- [My Neovim configuration](https://github.com/Printoiid/Mournhold/tree/main/nvim)
+- [Multiboard Automation](https://github.com/Printoiid/Multiboard-Automation): This is a small PowerShell module to grab every [Thangs](https://thangs.com) listing for Multiboard parts.
 
 ... And more to come.
