@@ -2,7 +2,7 @@
 
 <p align="center"><img src="mdr.gif" alt="MDR" style="width:300px;"></p>
 
-<p align="center">I'm mostly involved with PowerShell and GoLang generating tooling to make life a little bit easier. I have a slight obsession with configuring my <a href="https://github.com/Printoiid/Mournhold/tree/main/SofleKM/Lizardbutt">QMK keyboard</a> and my <a href="https://github.com/Printoiid/Mournhold/tree/main/nvim">Neovim setup.</a> On the side, I enjoy 3D modeling/printing, as well as Roguelike and RTS games.</p>
+<p align="center">I'm mostly involved with PowerShell and GoLang to generate tooling with the goal of making life a little bit easier. I have a slight obsession with configuring my <a href="https://github.com/Printoiid/Mournhold/tree/main/SofleKM/Lizardbutt">QMK keyboard</a> and my <a href="https://github.com/Printoiid/Mournhold/tree/main/nvim">Neovim setup.</a> On the side, I enjoy 3D modeling/printing, as well as Roguelike and RTS games.</p>
 
 <p align="center">
     Yes, my git graph is lacking, I'm sad about it too. It's a work in progress.<br>
