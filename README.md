@@ -16,7 +16,24 @@
 
 ## Current Projects
 
-- [My Neovim configuration](https://github.com/Printoiid/Mournhold/tree/main/nvim)
-- [Multiboard Automation](https://github.com/Printoiid/Multiboard-Automation): This is a small PowerShell module to grab every [Thangs](https://thangs.com) listing for Multiboard parts.
+- [My Neovim configuration](https://github.com/Printoiid/Mournhold/tree/main/nvim) My work environment
+- [Multiboard Automation](https://github.com/Printoiid/Multiboard-Automation): This is a small PowerShell module to grab every [Thangs](https://thangs.com) listing for Multiboard parts for an easier consumer experience.
+- [QMK Configuration](https://github.com/Printoiid/Mournhold/tree/main/soflekm/Lizardbutt) My keyboard layout, and configuration
+
+
+## Homelab applications and technologies I use
+
+| Name          | Function                      |
+| ---           | ---                           |
+| Proxmox       | Hypervisor                    |
+| OpnSense      | Firewall/Router               |
+| Talos         | Kubernetes Operating System   |
+| Docker Server | Docker Host                   |
+| ArgoCD        | CI/CD                         |
+| Hubble        | K8s Network Observability     |
+| Cilium        | K8s Network Configuration     |
+| Linkwarden    | Bookmark Application          |
+| Mealie        | Recipe Management Application |
+| Jellyfin      | Media Server                  |
 
 ... And more to come.
