@@ -12,7 +12,7 @@
 ---
 
 <p align="center">Current keyboard: Sofle Choc V2</p>
-<p align="center"><img src="./assets/keyboard.jpg" alt="keyboard" style="width:500px;"></p>read
+<p align="center"><img src="./assets/keyboard.jpg" alt="keyboard" style="width:500px;"></p>
 
 ## Current Projects
 
