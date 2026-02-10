@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">Current keyboard: Sofle Choc V2</p>
+<p align="center">Current keyboard: Sofle Choc V2 with Kailh Low Profile Choc White switches</p>
 <p align="center"><img src="./assets/keyboard.jpg" alt="keyboard" style="width:500px;"></p>
 
 ## Current Projects
