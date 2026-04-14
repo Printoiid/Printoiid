@@ -1,4 +1,5 @@
 <h1 align="center" style="font-size: 30px">A logical problem solver at his core.</h1>
+<p align="center"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/b0bb4a11-8b64-4e19-99fe-c7d21c5f5227" /></p>
 
 <p align="center"><img src="./assets/mdr.gif" alt="MDR" style="width:300px;"></p>
 
